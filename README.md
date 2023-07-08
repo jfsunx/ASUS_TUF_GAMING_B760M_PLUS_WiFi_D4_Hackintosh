@@ -1,9 +1,5 @@
 # ASUS TUF GAMING B760M PLUS WiFi D4 Hackintosh
 
-<img src="./windows_icon.png" alt="windows" width="100"/>
-<img src="./apple_icon.png" alt="apple" width="100"/>
-<img src="./ubuntu_icon.png" alt="ubuntu" width="100"/>
-
 ## Model
 
 - Motherboard: ASUS TUF GAMING B760M PLUS WiFi D4
@@ -18,7 +14,11 @@
 - USB is normal and has been successfully customized
 - The sound card driver is normal, and the sound is perfect when starting up
 - Normal sleep function
-- Beautify the boot interface icon
+- Beautify the OpenCore GUI
+
+The OpenCore GUI
+
+<img src="./windows_icon.png" alt="windows" width="100"/><img src="./apple_icon.png" alt="apple" width="100"/><img src="./ubuntu_icon.png" alt="ubuntu" width="100"/>
 
 ## Attention
 
@@ -26,8 +26,8 @@
 
 ## Acknowledgement
 
--OpenCore- <https://github.com/dortania/OpenCore-Install-Guide>
--Sound card camouflage--<https://github.com/Xmingbai/ASUS-TUF-GAMING-B760M-PLUS-WiFi-D4-Hackintosh>
+- OpenCore- <https://github.com/dortania/OpenCore-Install-Guide>
+- Sound card camouflage--<https://github.com/Xmingbai/ASUS-TUF-GAMING-B760M-PLUS-WiFi-D4-Hackintosh>
 
 # ASUS TUF GAMING B760M PLUS WiFi D4 黑苹果OC引导文件
 
@@ -46,6 +46,10 @@
 - 声卡驱动正常，完美开机Dung声音
 - 睡眠功能正常
 - 开机引导界面图标美化
+
+The OpenCore GUI
+
+<img src="./windows_icon.png" alt="windows" width="100"/><img src="./apple_icon.png" alt="apple" width="100"/><img src="./ubuntu_icon.png" alt="ubuntu" width="100"/>
 
 ## 注意
 
