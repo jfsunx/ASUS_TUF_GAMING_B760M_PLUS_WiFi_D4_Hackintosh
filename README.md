@@ -1,7 +1,7 @@
 # ASUS TUF GAMING B760M PLUS WiFi D4 Hackintosh
 
 - **English**
-- [简体中文](./README-zh_Hans.md)
+- [简体中文](README.zh-CN.md)
 
 ## Model
 

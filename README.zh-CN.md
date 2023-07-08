@@ -1,6 +1,6 @@
 # ASUS TUF GAMING B760M PLUS WiFi D4 黑苹果OC引导文件
 
-- [English](./README.md)
+- [English](README.md)
 - **简体中文**
 
 ## 型号
