@@ -15,7 +15,7 @@
 
 - The network card is normal, the WIFI is normal, the Bluetooth is normal, and AirDrop is not available
 - USB is normal and has been successfully customized
-- The sound card driver is normal, and the sound is perfect when starting up
+- The sound card driver is normal, and the 'Dung' sound is OK when starting up
 - Normal sleep function
 - Beautify the OpenCore GUI
 
